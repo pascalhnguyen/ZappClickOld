@@ -2,6 +2,8 @@
 
 git status //lists new changes
 git add -A . //add all new changes from the current directory
+git commit -m "comment here" //commit + add description
+git push //push to remote server (github)
 
 # shell commands
 
