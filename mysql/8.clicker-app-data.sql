@@ -15,4 +15,3 @@ values
 
 select "success" from clicker_student
 where id = 10478702 and access = 888999 ;
-
