@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysql": {
+    "host": "localhost",
+    "port": 0,
+    "database": "zappclick",
+    "password": "",
+    "name": "mysql",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
